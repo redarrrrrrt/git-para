@@ -12,3 +12,11 @@ img {
     border: 2px solid white;
     border-radius: 10px;
 }
+ul{
+    text-decoration: wavy;
+    color: cornflowerblue;
+    background-color: brown;
+}
+li{
+    text-decoration: wavy;
+}
