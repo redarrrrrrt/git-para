@@ -1,0 +1,19 @@
+h1{
+    color: firebrick;
+    font-size: xx-large;
+
+}
+
+p{
+    color: olivedrab;
+    background-color: blue;
+}
+
+ul{
+    text-decoration: wavy;
+    color: cornflowerblue;
+    background-color: brown;
+}
+li{
+    text-decoration: wavy;
+}
